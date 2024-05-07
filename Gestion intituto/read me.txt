@@ -1,0 +1,7 @@
+Este proyecto es un ejercicio de clase en el que hay que hacer un windows form que se
+conecte a una base de datos (almacenada localmente en el propio ejercicio), por ahora,
+gran parte de la aplicación no funciona y falta todavia algunas funcionalidades importantes
+que le quiero dar como inicio de sesión.
+La unica parte que funciona bien es la ventana de gestión de cursos y ahora mismo estoy
+trabajando la ventana de gestión de alumnos con alguna complicación como usar un 
+componente dataGridView.

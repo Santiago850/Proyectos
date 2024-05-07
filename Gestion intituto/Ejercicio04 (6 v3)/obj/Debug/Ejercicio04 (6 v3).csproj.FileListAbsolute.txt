@@ -1,0 +1,15 @@
+E:\Estudios\DAW (grado superior)\1ºAño\Programación (Maria)\Tema9\Ejercicio04 (6 v3)\Ejercicio04 (6 v3)\bin\Debug\Ejercicio04 (6 v3).exe.config
+E:\Estudios\DAW (grado superior)\1ºAño\Programación (Maria)\Tema9\Ejercicio04 (6 v3)\Ejercicio04 (6 v3)\bin\Debug\Ejercicio04 (6 v3).exe
+E:\Estudios\DAW (grado superior)\1ºAño\Programación (Maria)\Tema9\Ejercicio04 (6 v3)\Ejercicio04 (6 v3)\bin\Debug\Ejercicio04 (6 v3).pdb
+E:\Estudios\DAW (grado superior)\1ºAño\Programación (Maria)\Tema9\Ejercicio04 (6 v3)\Ejercicio04 (6 v3)\obj\Debug\Ejercicio04 (6 v3).csproj.AssemblyReference.cache
+E:\Estudios\DAW (grado superior)\1ºAño\Programación (Maria)\Tema9\Ejercicio04 (6 v3)\Ejercicio04 (6 v3)\obj\Debug\Ejercicio04__6_v3_.Properties.Resources.resources
+E:\Estudios\DAW (grado superior)\1ºAño\Programación (Maria)\Tema9\Ejercicio04 (6 v3)\Ejercicio04 (6 v3)\obj\Debug\Ejercicio04 (6 v3).csproj.GenerateResource.cache
+E:\Estudios\DAW (grado superior)\1ºAño\Programación (Maria)\Tema9\Ejercicio04 (6 v3)\Ejercicio04 (6 v3)\obj\Debug\Ejercicio04 (6 v3).csproj.CoreCompileInputs.cache
+E:\Estudios\DAW (grado superior)\1ºAño\Programación (Maria)\Tema9\Ejercicio04 (6 v3)\Ejercicio04 (6 v3)\obj\Debug\Ejercicio04 (6 v3).exe
+E:\Estudios\DAW (grado superior)\1ºAño\Programación (Maria)\Tema9\Ejercicio04 (6 v3)\Ejercicio04 (6 v3)\obj\Debug\Ejercicio04 (6 v3).pdb
+E:\Estudios\DAW (grado superior)\1ºAño\Programación (Maria)\Tema9\Ejercicio04 (6 v3)\Ejercicio04 (6 v3)\bin\Debug\AppData\Instituto.mdf
+E:\Estudios\DAW (grado superior)\1ºAño\Programación (Maria)\Tema9\Ejercicio04 (6 v3)\Ejercicio04 (6 v3)\bin\Debug\AppData\Instituto_log.ldf
+E:\Estudios\DAW (grado superior)\1ºAño\Programación (Maria)\Tema9\Ejercicio04 (6 v3)\Ejercicio04 (6 v3)\obj\Debug\Ejercicio04__6_v3_.GestionAlumnos.resources
+E:\Estudios\DAW (grado superior)\1ºAño\Programación (Maria)\Tema9\Ejercicio04 (6 v3)\Ejercicio04 (6 v3)\obj\Debug\Ejercicio04__6_v3_.GestionColegio.resources
+E:\Estudios\DAW (grado superior)\1ºAño\Programación (Maria)\Tema9\Ejercicio04 (6 v3)\Ejercicio04 (6 v3)\obj\Debug\Ejercicio04__6_v3_.GestionCursos.resources
+E:\Estudios\DAW (grado superior)\1ºAño\Programación (Maria)\Tema9\Ejercicio04 (6 v3)\Ejercicio04 (6 v3)\obj\Debug\Ejercicio04__6_v3_.GestionProfesores.resources
